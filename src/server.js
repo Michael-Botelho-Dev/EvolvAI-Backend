@@ -4,6 +4,7 @@ import dotenv from 'dotenv'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import { readDB, writeDB } from './db.js'
+import events from './routes/events.js'
 
 import health from './routes/health.js'
 import user from './routes/user.js'
@@ -30,6 +31,7 @@ app.use('/api', missoes)
 app.use('/api', ranking)
 app.use('/api', recommendations)
 app.use('/api', auth) 
+app.use('/api', events)  
 
 // Seed opcional: node src/server.js --seed
 if (process.argv.includes('--seed')) {
