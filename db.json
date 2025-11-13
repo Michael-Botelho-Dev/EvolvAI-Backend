@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nome": "Michael",
-      "nivel": "avancado",
+      "nivel": "iniciante",
       "xp": 540,
       "streakDias": 4
     }
@@ -327,6 +327,74 @@
       "type": "tab_changed",
       "meta": {
         "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763055682987,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763055682992,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763055683057,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763055688013,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763055688096,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763055700535,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763055700551,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763055700560,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763055720031,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
       }
     }
   ]
