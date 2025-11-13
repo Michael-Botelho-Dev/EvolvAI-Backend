@@ -11,6 +11,7 @@ import trilhas from './routes/trilhas.js'
 import missoes from './routes/missoes.js'
 import ranking from './routes/ranking.js'
 import recommendations from './routes/recommendations.js'
+import auth from './routes/auth.js' 
 
 dotenv.config()
 const app = express()
@@ -28,6 +29,7 @@ app.use('/api', trilhas)
 app.use('/api', missoes)
 app.use('/api', ranking)
 app.use('/api', recommendations)
+app.use('/api', auth) 
 
 // Seed opcional: node src/server.js --seed
 if (process.argv.includes('--seed')) {
