@@ -3,8 +3,8 @@
     {
       "id": 1,
       "nome": "Michael",
-      "nivel": "iniciante",
-      "xp": 390,
+      "nivel": "avancado",
+      "xp": 540,
       "streakDias": 4
     }
   ],
@@ -52,21 +52,21 @@
       "usuarioId": 1,
       "titulo": "Concluir 1 quiz hoje",
       "xp": 50,
-      "feito": false
+      "feito": true
     },
     {
       "id": 2,
       "usuarioId": 1,
       "titulo": "Estudar 20 minutos",
       "xp": 30,
-      "feito": false
+      "feito": true
     },
     {
       "id": 3,
       "usuarioId": 1,
       "titulo": "Praticar lógica (condicionais)",
       "xp": 70,
-      "feito": false
+      "feito": true
     }
   ],
   "ranking": [
@@ -148,7 +148,186 @@
       "tipo": "video"
     }
   ],
-  
-      "events": []
-
+  "events": [
+    {
+      "ts": 1763053509988,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763053510005,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763053510040,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763054288149,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763054288200,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763054295354,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763054296836,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763054300150,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763054314671,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Trilhas"
+      }
+    },
+    {
+      "ts": 1763054319370,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763054320952,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Ranking"
+      }
+    },
+    {
+      "ts": 1763054326607,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763054326617,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763054326621,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763054344151,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763054354776,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763054356627,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763054358758,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763054360886,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763054369671,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763054373385,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763054382626,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763054382655,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    }
+  ]
 }

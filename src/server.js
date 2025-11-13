@@ -17,10 +17,19 @@ import auth from './routes/auth.js'
 dotenv.config()
 const app = express()
 const PORT = process.env.PORT || 4000
-const ORIGIN = process.env.ALLOWED_ORIGIN || 'http://localhost:5173'
 
 // Middlewares
-app.use(cors({ origin: ORIGIN }))
+const ORIGINS = (process.env.ALLOWED_ORIGIN || 'http://localhost:5173')
+  .split(',')
+  .map(s => s.trim());
+
+app.use(cors({
+  origin(origin, cb) {
+    if (!origin) return cb(null, true); // curl/insomnia
+    if (ORIGINS.includes(origin)) return cb(null, true);
+    return cb(new Error('Not allowed by CORS: ' + origin));
+  }
+}));
 app.use(express.json())
 
 // Rotas
