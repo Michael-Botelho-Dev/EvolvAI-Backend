@@ -4,7 +4,7 @@
       "id": 1,
       "nome": "Michael",
       "nivel": "iniciante",
-      "xp": 540,
+      "xp": 510,
       "streakDias": 4
     }
   ],
@@ -59,7 +59,7 @@
       "usuarioId": 1,
       "titulo": "Estudar 20 minutos",
       "xp": 30,
-      "feito": true
+      "feito": false
     },
     {
       "id": 3,
@@ -395,6 +395,578 @@
       "type": "tab_changed",
       "meta": {
         "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763058436123,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763058436230,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763058438448,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763058439247,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763058439843,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763058440748,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763058452494,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763058453407,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763058454471,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763058454947,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763058455818,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763063706910,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763063707088,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763063707907,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763063731977,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063732064,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063734277,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063735039,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063735795,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063737696,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063739712,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063740501,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063741494,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063742078,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063742711,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763063755032,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Trilhas"
+      }
+    },
+    {
+      "ts": 1763063756613,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763063757776,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763063758380,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763063759553,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763063760822,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Ranking"
+      }
+    },
+    {
+      "ts": 1763063767775,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763063767782,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763063767784,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763063770699,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763063772732,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763063791701,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763063793134,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763063797986,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763063798967,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763063799506,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763063804154,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094141634,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094141679,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094142246,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094143290,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094143466,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094145335,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094186791,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094186870,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763094186950,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763119312293,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763119312346,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763119312533,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763124696368,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763124696400,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763124696715,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763141463680,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763141463688,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763141463847,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763142882227,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763142882316,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763142882422,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763149469977,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763149470097,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763149470184,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763149521684,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763149521689,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763149522228,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763155557155,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763155557166,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763155557332,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
       }
     }
   ]

@@ -5,6 +5,7 @@ import path from 'path'
 import { fileURLToPath } from 'url'
 import { readDB, writeDB } from './db.js'
 import events from './routes/events.js'
+import insights from './routes/insights.js'
 
 import health from './routes/health.js'
 import user from './routes/user.js'
@@ -20,14 +21,12 @@ const PORT = process.env.PORT || 4000
 
 // Middlewares
 const ORIGINS = (process.env.ALLOWED_ORIGIN || 'http://localhost:5173')
-  .split(',')
-  .map(s => s.trim());
-
+  .split(',').map(s => s.trim())
 app.use(cors({
   origin(origin, cb) {
-    if (!origin) return cb(null, true); // curl/insomnia
-    if (ORIGINS.includes(origin)) return cb(null, true);
-    return cb(new Error('Not allowed by CORS: ' + origin));
+    if (!origin) return cb(null, true)
+    if (ORIGINS.includes(origin)) return cb(null, true)
+    cb(new Error('Not allowed by CORS: ' + origin))
   }
 }));
 app.use(express.json())
@@ -41,6 +40,7 @@ app.use('/api', ranking)
 app.use('/api', recommendations)
 app.use('/api', auth) 
 app.use('/api', events)  
+app.use('/api', insights)
 
 // Seed opcional: node src/server.js --seed
 if (process.argv.includes('--seed')) {
