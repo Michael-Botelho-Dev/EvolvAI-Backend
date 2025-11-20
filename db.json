@@ -4,7 +4,7 @@
       "id": 1,
       "nome": "Michael",
       "nivel": "iniciante",
-      "xp": 510,
+      "xp": 540,
       "streakDias": 4
     }
   ],
@@ -59,7 +59,7 @@
       "usuarioId": 1,
       "titulo": "Estudar 20 minutos",
       "xp": 30,
-      "feito": false
+      "feito": true
     },
     {
       "id": 3,
@@ -963,6 +963,862 @@
     },
     {
       "ts": 1763155557332,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763159217081,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763159217142,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763159217230,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763166915288,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763166915416,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763166915523,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763168287497,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763168287594,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763168287696,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763172092621,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763172092706,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763172092776,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763172094395,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Trilhas"
+      }
+    },
+    {
+      "ts": 1763172095218,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763172096109,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Ranking"
+      }
+    },
+    {
+      "ts": 1763172097507,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763172097524,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763172097528,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763172098718,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763172099831,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763172908993,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Trilhas"
+      }
+    },
+    {
+      "ts": 1763172913142,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763172913871,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Ranking"
+      }
+    },
+    {
+      "ts": 1763172914016,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763172914021,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763172914025,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763601573600,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601573607,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601573705,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601575351,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763601579929,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601582146,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763601584665,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601594997,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601595063,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601596958,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601597670,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763601606431,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Trilhas"
+      }
+    },
+    {
+      "ts": 1763601610920,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763601617872,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Ranking"
+      }
+    },
+    {
+      "ts": 1763601622122,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763601622131,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763601622134,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763601643099,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763601649064,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763601650197,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763601650954,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763601661009,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763601661899,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763601663043,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763601664304,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763601676577,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763601676583,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763601676586,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763601677032,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Ranking"
+      }
+    },
+    {
+      "ts": 1763601677511,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763601678095,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Trilhas"
+      }
+    },
+    {
+      "ts": 1763601678169,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602150192,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602150236,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602150277,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602152139,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763602153284,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763602153291,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763602153294,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763602257470,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763602257518,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763602257554,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763602257557,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763602257560,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763602273117,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602275130,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602276787,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602277982,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602278942,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763602281802,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763602281812,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763602281815,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763602282621,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Ranking"
+      }
+    },
+    {
+      "ts": 1763602283927,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602284960,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Trilhas"
+      }
+    },
+    {
+      "ts": 1763602285909,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602288093,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602288878,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602289523,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602290278,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602355171,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602355253,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602373082,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602377128,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602378065,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602379412,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602380191,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602383000,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602386425,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Trilhas"
+      }
+    },
+    {
+      "ts": 1763602392531,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602394881,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602395825,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602396542,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602397381,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602398473,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Ranking"
+      }
+    },
+    {
+      "ts": 1763602402510,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763602402521,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Assistant"
+      }
+    },
+    {
+      "ts": 1763602402524,
+      "userId": 1,
+      "type": "opened_assistant",
+      "meta": {}
+    },
+    {
+      "ts": 1763602409551,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763602419013,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602420360,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Missões"
+      }
+    },
+    {
+      "ts": 1763602421651,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Insights"
+      }
+    },
+    {
+      "ts": 1763602428444,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602933369,
+      "userId": 1,
+      "type": "tab_changed",
+      "meta": {
+        "tab": "Dashboard"
+      }
+    },
+    {
+      "ts": 1763602933497,
       "userId": 1,
       "type": "tab_changed",
       "meta": {
